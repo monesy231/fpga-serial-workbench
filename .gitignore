@@ -1,0 +1,15 @@
+/build/
+/.Xil/
+/xsim.dir/
+__pycache__/
+*.jou
+*.log
+*.bit
+*.vcd
+*.vvp
+*.wdb
+*.pb
+*.xpr
+*.runs/
+*.cache/
+*.sim/
